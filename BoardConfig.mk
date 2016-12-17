@@ -29,3 +29,8 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 TARGET_PREBUILT_KERNEL := device/samsung/j7xltectc/kernel
 
 BOARD_HAS_NO_SELECT_BUTTON := true
+
+#twrp
+TW_THEME := portrait_hdpi
+
+
